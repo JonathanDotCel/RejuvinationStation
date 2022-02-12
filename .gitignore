@@ -1,0 +1,8 @@
+
+# Visual studio meta stuff
+.vs
+
+# Won't need this...
+obj/
+
+bin/
